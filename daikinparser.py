@@ -1,5 +1,3 @@
-__author__ = 'motspan'
-
 import requests
 from bs4 import *
 
